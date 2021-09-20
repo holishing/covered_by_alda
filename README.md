@@ -22,4 +22,4 @@ timidity shojo_rei.midi  -Ow -o - | ffmpeg -i - -acodec aac shojo_rei.aac
 ```
 
 ## Material
-- [Shojo Ray](https://youtu.be/JW3N-HvU0MA)
+- [Shojo Rei](https://youtu.be/JW3N-HvU0MA)
