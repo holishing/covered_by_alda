@@ -3,6 +3,10 @@
 ## Requirement
 - [Alda](https://alda.io)
 - [Timidity++](https://sourceforge.net/projects/timidity/): Optional, If you want to export music to more format.
+- [Fluid SoundFont](https://sources.debian.org/src/fluid-soundfont/3.1-5.3/): Optional, If you want to export music to more format.
+  + Package Name:
+    - `fluid-soundfont-gm`(Debian,Ubuntu)
+    - `soundfont-fluid`(ArchLinux)
 
 ## Play 
 ```
